@@ -1,0 +1,18 @@
+.sticky-top {
+    position: sticky;
+    top: 10px;
+}
+
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+.red{
+    color: red;
+}
+
+.img-responsive{
+    max-width: 600px;
+}
